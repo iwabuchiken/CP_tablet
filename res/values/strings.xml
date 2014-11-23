@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CP_tablet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Generic items -->
+	    <string name="generic_bt_ok">OK</string>
+	    <string name="generic_bt_cancel">キャンセル</string>
+	    <string name="generic_bt_back">Back</string>
+	
+	    <string name="generic_tv_confirm">確認</string>
+	    <string name="generic_tv_menu">メニュー</string>
+	    <string name="generic_tv_register">登録</string>
+	    <string name="generic_tv_edit">編集</string>
+	    <string name="generic_tv_delete">削除</string>
+   		<string name="generic_tv_no_data">No data</string>
+   		<string name="generic_bt_quit">終了</string>
+   		<string name="generic_message_quit">Quit the app?</string>
+    	<string name="generic_notice">注目</string>
+    	<string name="generic_confirm_delete_file">Delete file, too</string>
+    	
+    	<string name="generic_Clear">Clear</string>
+    	<string name="generic_Go">Go</string>
+    
+    <!-- labels for templates -->
+	    <string name="dlg_tmpl_confirm_simple_msg_delete_file">
+       									Delete file, too</string>
+       									
+    	<string name="commons_lbl_word">Word</string>
+    
+</resources>
