@@ -116,7 +116,9 @@ public class CONS {
 //		public static String dPath_dbFile = "/data/data/cm7.main/databases";
 //					Context.getFilesDir().getPath() 
 		
-		public final static String dPath_Data_Root = "/mnt/sdcard-ext/cp_data";
+		public final static String dPath_Data_Root = "/storage/sdcard0/apps/cp_data";
+//		public final static String dPath_Data_Root_tablet = 
+//											"/storage/sdcard0/apps/cp_data";
 		
 		public static String dPath_dbFile_Backup = dPath_Data_Root + "/cp_backup";
 		
